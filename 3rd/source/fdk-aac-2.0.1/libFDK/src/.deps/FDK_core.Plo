@@ -1,0 +1,31 @@
+libFDK/src/FDK_core.lo: libFDK/src/FDK_core.cpp libFDK/include/FDK_core.h \
+ libSYS/include/FDK_audio.h libSYS/include/machine_type.h \
+ /opt/rh/devtoolset-2/root/usr/lib/gcc/x86_64-redhat-linux/4.8.2/include/stddef.h \
+ /usr/include/assert.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h libSYS/include/genericStds.h \
+ libSYS/include/syslib_channelMapDescr.h
+
+libFDK/include/FDK_core.h:
+
+libSYS/include/FDK_audio.h:
+
+libSYS/include/machine_type.h:
+
+/opt/rh/devtoolset-2/root/usr/lib/gcc/x86_64-redhat-linux/4.8.2/include/stddef.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+libSYS/include/genericStds.h:
+
+libSYS/include/syslib_channelMapDescr.h:

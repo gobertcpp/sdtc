@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-2/root/usr/bin/g++   -fPIC -fvisibility=hidden    CMakeFiles/convert.dir/util/convert.cc.o  -o convert -rdynamic libyuv.a 

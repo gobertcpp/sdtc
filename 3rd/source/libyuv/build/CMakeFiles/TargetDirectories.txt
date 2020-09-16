@@ -1,0 +1,2 @@
+/develop/cloud_application_library/avcodec/3rd/source/libyuv/build/CMakeFiles/convert.dir
+/develop/cloud_application_library/avcodec/3rd/source/libyuv/build/CMakeFiles/yuv.dir

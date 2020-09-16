@@ -1,0 +1,14 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=/develop/cloud_application_library/avcodec/3rd/source/build/lib
+includedir=/develop/cloud_application_library/avcodec/3rd/source/build/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 56.31.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil -pthread -lrt -lm
+Libs.private: 
+Cflags: -I${includedir}

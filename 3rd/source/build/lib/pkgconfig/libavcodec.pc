@@ -1,0 +1,14 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=/develop/cloud_application_library/avcodec/3rd/source/build/lib
+includedir=/develop/cloud_application_library/avcodec/3rd/source/build/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 58.54.100
+Requires: libswresample >= 3.5.100, libavutil >= 56.31.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavcodec -pthread -lm -L/develop/cloud_application_library/avcodec/3rd/source/build/lib -lfdk-aac -lm -lmp3lame -lm -L/develop/cloud_application_library/avcodec/3rd/source/build/lib -lopus -lm -L/develop/cloud_application_library/avcodec/3rd/source/build/lib -lx264 -lpthread -lm
+Libs.private: 
+Cflags: -I${includedir}

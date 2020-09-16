@@ -1,0 +1,4 @@
+/develop/media_build/cloud_application_library/avcodec/3rd/source/googletest/build/googletest/CMakeFiles/gtest.dir
+/develop/media_build/cloud_application_library/avcodec/3rd/source/googletest/build/googlemock/CMakeFiles/gmock.dir
+/develop/media_build/cloud_application_library/avcodec/3rd/source/googletest/build/googletest/CMakeFiles/gtest_main.dir
+/develop/media_build/cloud_application_library/avcodec/3rd/source/googletest/build/googlemock/CMakeFiles/gmock_main.dir
